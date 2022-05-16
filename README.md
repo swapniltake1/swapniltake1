@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swapniltake1
+- 👋 Hi, I’m Swapnil 
 - 👀 I’m interested in Softwere/Web Devlopment
 - 🌱 I’m currently Pursing B.E Computer
 - 💞️ I’m looking to collaborate on java
