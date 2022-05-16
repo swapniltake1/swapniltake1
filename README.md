@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me 
 - mail @ swapniltake1@outlook.com 
-- Personal Instagram @swapniltake_patil  https://www.instagram.com/swapniltake_patil/
-- professional Instagram @computer_science_engineers__  https://www.instagram.com/computer_science_engineers__/
+- LinkedIn - https://www.linkedin.com/in/swapniltake1/
+- Personal Instagram - https://www.instagram.com/swapniltake_patil/
+- professional Instagram - https://www.instagram.com/computer_science_engineers__/
 
 
 <!---
