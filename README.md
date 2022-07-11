@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swapnil 
 - 👀 I’m interested in Softwere/Web Devlopment
 - 🌱 I’m currently Pursing B.E Computer
-- 💞️ I’m looking to collaborate on java
+- 💞️ I’m looking to collaborate on java Development
 - 📫 How to reach me 
 - mail @ swapniltake1@outlook.com 
 - LinkedIn - https://www.linkedin.com/in/swapniltake1/
