@@ -54,6 +54,8 @@ or <a href="mailto:swapniltake1@outlook.com"><b>email</b></a> me.
 </div>
 
 <div align="center">
+  
+  <!-- <img src="https://komarev.com/ghpvc/?username=swapniltake1&style=flat&label=Profile+Views" alt="Swap" /> -->
 
 
 
