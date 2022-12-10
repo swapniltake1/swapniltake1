@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Swapnil Take</h1>
+<h1 align="center">Hi 👋, I'm Swapnil</h1>
 <!-- <h3 align="center">A passionate developer from India</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" /> </p>
 
