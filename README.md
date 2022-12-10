@@ -45,10 +45,8 @@
 <div align="center">
 
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/swapniltake1/swapniltake1/issues/new"><b>here</b></a><br>
-or <a href="mailto:swapniltake1@outlook.com"><b>email</b></a> me.
-
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br> Ask me anything <a href="https://github.com/swapniltake1/swapniltake1/issues/new"><b>here</b></a> or <a href="mailto:swapniltake1@outlook.com"><b>email</b></a> me.
+ <br>
 <i>Happy Coding!</i> 😊
 
 </div>
