@@ -55,8 +55,8 @@ or <a href="mailto:swapniltake1@outlook.com"><b>email</b></a> me.
 
 <div align="center">
   
-   <img src="https://komarev.com/ghpvc/?username=swapniltake1&style=flat&label=Profile+Views" alt="Swap" />
- [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1)](https://github.com/swapniltake1/github-readme-stats)
+  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <i>Follow me around the web:</i><br>
