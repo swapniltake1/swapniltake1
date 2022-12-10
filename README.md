@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Swapnil Take</h1>
 <!-- <h3 align="center">A passionate developer from India</h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" /> </p>
 
 
 
@@ -29,13 +29,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25">
-
-
-
-<br>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
