@@ -6,9 +6,8 @@
 
 <!-- - 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis) -->
 
-- 🌱 I’m currently learning **Machine Learning & Data Science**
+- 🌱 I’m currently learning **Bachelor Of Computer Engineering**
 
-- 📫 How to reach me **devded@pm.me**
 
 <!-- ### 💻 Stack I Work With
 
