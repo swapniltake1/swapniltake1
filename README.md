@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Bachelor of Engineering (Computer Engineering)**
+- 🌱 I’m currently working on Academic Project **Drug Tracebility In Healthcare Supply Chain Using Blockchain**
 
 
 
