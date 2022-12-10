@@ -54,11 +54,14 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <div align="center">
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&layout=compact)](https://github.com/yushi1007)
+  
+<br>
+  <br>
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1)](https://github.com/anuraghazra/github-readme-stats)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&layout=compact)](https://github.com/yushi1007)
-
+  
 
 <i>Follow me around the web:</i><br>
 
