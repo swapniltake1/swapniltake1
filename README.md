@@ -43,6 +43,14 @@
 
 </div>
 
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&layout=compact)](https://github.com/yushi1007)
+<br>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  
 <div align="center">
 
 
@@ -51,18 +59,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <i>Happy Coding!</i> 😊
 
 </div>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&layout=compact)](https://github.com/yushi1007)
-  
-<br>
-  <br>
-  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  
-
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/swapniltake1" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
