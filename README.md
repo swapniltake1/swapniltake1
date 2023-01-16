@@ -46,9 +46,11 @@
 
 <div align="center">
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=swapniltake1&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&langs_count=5&theme=tokyonight)]()
-
+  ### :fire: My Stats :
+  https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+  
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swapniltake1&theme=dark&background=000000)](https://git.io/streak-stats)
   
 <div align="center">
 
