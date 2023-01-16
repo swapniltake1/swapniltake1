@@ -47,10 +47,12 @@
 <div align="center">
 
   ### :fire: My Stats :
-  https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
   
+  <br>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swapniltake1&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swapniltake1&hide_border=true)](https://git.io/streak-stats)
+  
+  <br>
   
 <div align="center">
 
