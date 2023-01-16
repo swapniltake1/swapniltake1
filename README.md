@@ -46,7 +46,7 @@
 
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1&theme=gruvbox_light&show_icons=true)
   <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&layout=compact)](https://github.com/yushi1007)
