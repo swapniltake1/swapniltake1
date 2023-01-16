@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Swapnil</h1>
+<h1 align="center">Hi 👋, I'm Swapnil Rajendra Take</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" /> </p>
@@ -51,6 +51,8 @@
   
   
 # 📊 GitHub Stats:
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=swapniltake1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
