@@ -45,6 +45,9 @@
 
 
 <div align="center">
+  
+  <br>
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swapniltake1&repo=github-readme-stats)](https://github.com/swapniltake1/versel-install)
   
  <br>
