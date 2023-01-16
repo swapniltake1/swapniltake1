@@ -45,12 +45,9 @@
 
 
 <div align="center">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swapniltake1&repo=github-readme-stats)](https://github.com/swapniltake1/versel-install)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1&theme=gruvbox_light&show_icons=true)
-  <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&layout=compact)](https://github.com/yushi1007)
-<br>
+ <br>
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   
