@@ -1,7 +1,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
-<!-- <h3 align="center">A passionate developer from India</h3> -->
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=swapniltake1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=swapniltake1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" /> </p>
 
 
