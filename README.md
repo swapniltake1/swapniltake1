@@ -11,7 +11,7 @@
 
 
 
-### 💻 Stack I Work With
+# 💻 Tech Stack:
 <div align="center">
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,4 +78,4 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a href="https://stackoverflow.com/users/16260040/swapnil?tab=profile" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="DEV.to"></a>
 
 </div>
----
+
