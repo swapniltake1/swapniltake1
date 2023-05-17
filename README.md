@@ -4,9 +4,9 @@
 
 
 <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="Profile Views" style="align:left;" />
+        <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="Profile Views" />
         <a href="https://stackoverflow.com/users/16260040/swapnil?tab=profile" target="_blank" >
-          <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=StackOverflowProfile&logo=stackoverflow" alt="Stack Overflow Profile Reach" style="align:right; />
+          <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=StackOverflowProfile&logo=stackoverflow" alt="Stack Overflow Profile Reach" />
         </a>
       </p>
 
