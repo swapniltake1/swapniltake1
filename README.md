@@ -65,13 +65,13 @@
      <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=merko&hide_border=true" />
    </td>
    <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=merko&hide_border=true" />    
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=dark&hide_border=false" />    
    </td>
  </tr>
 </table>
   
 
-<br>
+ <br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=swapniltake1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
