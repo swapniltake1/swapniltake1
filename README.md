@@ -4,10 +4,10 @@
 
 
 <p align="center">
-  <table style="border-collapse: collapse; margin: 0 auto;">
+  <table style="border-collapse: collapse; width:100%;">
     <tr>
       <td style="padding: 0; text-align: center;">
-        <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" style="display: block;" />
+        <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" />
       </td>
       <td style="padding: 0; text-align: center;">
         <a href="https://stackoverflow.com/users/16260040/swapnil?tab=profile" target="_blank">
