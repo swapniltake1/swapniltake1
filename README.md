@@ -62,10 +62,10 @@
   <table>
   <tr>
    <td>
-    ![](https://github-readme-stats.vercel.app/api?                username=swapniltake1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+     https://github-readme-stats.vercel.app/api?                  username=swapniltake1&theme=dark&hide_border=false&include_all_commits=false&count_private=false
    </td>
    <td>
-        ![](https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=dark&hide_border=false)<br/> 
+      https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=dark&hide_border=false
    </td>
  </tr>
 </table>
