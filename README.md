@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Swapnil Rajendra Take</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" /> 
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=reputation&logo=stackoverflow" alt="devded" />
-  <img src="https://stackoverflow.com/users/16260040/swapnil?tab=profile" alt="devded" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="Profile Views" /> 
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=reputation&logo=stackoverflow" alt="Stack OverFlow Profile Reach" />
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label" alt="Stack OverFlow Profile btn" />
   
 </p>
 
