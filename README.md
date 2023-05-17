@@ -4,21 +4,19 @@
 
 
 <p align="center">
-  <table>
+  <table style="border-collapse: collapse; margin: 0 auto;">
     <tr>
-      <td width="50%">
-        <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" />
+      <td style="padding: 0; text-align: center;">
+        <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" style="display: block;" />
       </td>
-      <td width="50%">
+      <td style="padding: 0; text-align: center;">
         <a href="https://stackoverflow.com/users/16260040/swapnil?tab=profile" target="_blank">
-          <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=StackOverflowProfile&logo=stackoverflow" alt="Stack Overflow Profile Reach" />
+          <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=StackOverflowProfile&logo=stackoverflow" alt="Stack Overflow Profile Reach" style="display: block;" />
         </a>
       </td>
     </tr>
   </table>
 </p>
-
-
 
 
 
