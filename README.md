@@ -4,11 +4,20 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" style="margin-right: 1cm;" />
-  <a href="https://stackoverflow.com/users/16260040/swapnil?tab=profile" target="_blank">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=StackOverflowProfile&logo=stackoverflow" alt="Stack Overflow Profile Reach" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" />
+      </td>
+      <td width="50%">
+        <a href="https://stackoverflow.com/users/16260040/swapnil?tab=profile" target="_blank">
+          <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=StackOverflowProfile&logo=stackoverflow" alt="Stack Overflow Profile Reach" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 
