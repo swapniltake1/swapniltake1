@@ -62,7 +62,7 @@
   <table>
   <tr>
    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=merko&hide_border=true" />
+     <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=dark&hide_border=false" />
    </td>
    <td>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=dark&hide_border=false" />    
