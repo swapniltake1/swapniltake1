@@ -76,14 +76,6 @@
 </table>
   
   <br>
-
- ## Stack Overflow
-
-[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/16260040/swapnil)
-
-[![Stack Overflow Profile](https://img.shields.io/badge/Stack%20Overflow-Profile-brightgreen?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/16260040/swapnil?tab=profile)
-
-
   
  <br>
   
