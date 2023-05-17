@@ -62,10 +62,10 @@
   <table>
   <tr>
    <td>
-     https://github-readme-stats.vercel.app/api?                  username=swapniltake1&theme=dark&hide_border=false&include_all_commits=false&count_private=false
+     <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=merko&hide_border=true" />
    </td>
    <td>
-      https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=dark&hide_border=false
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=merko&hide_border=true" />    
    </td>
  </tr>
 </table>
