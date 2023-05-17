@@ -74,9 +74,9 @@
 
   ## Stack Overflow
 
-[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/1234567?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/1234567/your-username)
+[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/swapnil?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/1234567/your-username)
 
-[![Stack Overflow Profile](https://img.shields.io/badge/Stack%20Overflow-Profile-brightgreen?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/1234567/your-username)
+[![Stack Overflow Profile](https://img.shields.io/badge/Stack%20Overflow-Profile-brightgreen?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/1234567/swapnil)
 
   
  <br>
