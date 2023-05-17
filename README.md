@@ -4,8 +4,9 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="devded" /> 
-  [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/16260040/swapnil) 
-  [![Stack Overflow Profile](https://img.shields.io/badge/Stack%20Overflow-Profile-brightgreen?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/16260040/swapnil?tab=profile)
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=reputation&logo=stackoverflow" alt="devded" />
+  <img src="https://stackoverflow.com/users/16260040/swapnil?tab=profile" alt="devded" />
+  
 </p>
 
 
