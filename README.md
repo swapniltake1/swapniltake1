@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" >
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" >
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" >
+  <img src="https://img.shields.io/badge/-Tymeleaf-%23C5D4E0?style=for-the-badge&logo=Tymeleaf&logoColor=white">
+  <img src="https://img.shields.io/badge/-REST%20API-%23007ACC?style=for-the-badge&logo=rest&logoColor=white">
 
  
 </div>
