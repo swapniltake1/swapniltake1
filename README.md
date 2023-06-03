@@ -11,10 +11,10 @@
       </p>
 
 
-
+<div align="center">
 - 🌱 **Polishing My Software Development Skills & Seeking New Opportunities to Shine**
 
-
+</div>
 
 
 <div align="center">
