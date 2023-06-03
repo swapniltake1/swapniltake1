@@ -12,8 +12,9 @@
 
 
 <div align="center">
+     <p>   
 - 🌱 **Polishing My Software Development Skills & Seeking New Opportunities to Shine**
-
+     </p>
 </div>
 
 
