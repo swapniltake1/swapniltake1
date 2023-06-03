@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently working on Academic Project **Drug Tracebility In Healthcare Supply Chain Using Blockchain**
+- 🌱 **Polishing My Software Development Skills & Seeking New Opportunities to Shine**
 
 
 
