@@ -68,8 +68,8 @@
   
 # 📊 GitHub Stats:
   
-![Swapnil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Swapnils's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&layout=donut-vertical)](https://github.com/swapniltake1/github-readme-stats)
+
   <br>
   
   <table>
