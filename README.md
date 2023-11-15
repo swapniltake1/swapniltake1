@@ -68,8 +68,8 @@
   
 # 📊 GitHub Stats:
   
-![Swapnil's](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Swapnils's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=transparent)
+![Swapnil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Swapnils's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=dark)
   <br>
   
   <table>
