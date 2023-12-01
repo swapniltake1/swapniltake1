@@ -20,7 +20,7 @@
 
 <div align="center">
   
-  # 💻 Tech Stack:
+  ## 💻 Tech Stack:
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,7 +66,7 @@
 <div align="center">
   
   
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&layout=donut)](https://github.com/swapniltake1/github-readme-stats)
 
