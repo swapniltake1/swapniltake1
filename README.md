@@ -8,6 +8,7 @@
         <a href="https://stackoverflow.com/users/16260040/swapnil?tab=profile" target="_blank" >
           <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=StackOverflowProfile&logo=stackoverflow" alt="Stack Overflow Profile Reach" />
         </a>
+        
       </p>
 
 
@@ -68,17 +69,17 @@
   
 ## 📊 GitHub Stats:
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapniltake1&layout=donut)](https://github.com/swapniltake1/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&locale=en" alt="swapniltake1" /></p>
 
   <br>
   
   <table>
   <tr>
    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapniltake1&show_icons=true&locale=en&layout=compact" alt="swapniltake1" /></p>
    </td>
    <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=dark&hide_border=false" />    
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&" alt="swapniltake1" /></p>   
    </td>
  </tr>
 </table>
@@ -87,7 +88,7 @@
 
   
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=swapniltake1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapniltake1" alt="swapniltake1" /></a> 
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -104,11 +105,22 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </div>
 <i>Follow me around the web:</i><br>
 
-<a href="https://www.linkedin.com/in/swapniltake1" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/swapniltake_patil" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/swapniltake01" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.youtube.com/@thecodebreaker" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Spotify"></a>
-<a href="https://stackoverflow.com/users/16260040/swapnil?tab=profile" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="DEV.to"></a>
+<a href="https://dev.to/swapniltake1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="swapniltake1" height="30" width="40" /></a>
+<a href="https://twitter.com/swapniltake01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapniltake01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/swapniltake1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapniltake1" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16260040/swapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16260040/swapnil" height="30" width="40" /></a>
+<a href="https://instagram.com/swapniltake_patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swapniltake_patil" height="30" width="40" /></a>
+<a href="https://medium.com/@swapniltake1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swapniltake1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@thecodebreaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thecodebreaker" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/takeswapnil8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="takeswapnil8" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/swapniltake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swapniltake" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/swapniltake1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/swapniltake1" height="30" width="40" /></a>
+
 
 </div>
+
+
+
+
+
 
