@@ -90,12 +90,11 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapniltake1" alt="swapniltake1" /></a> 
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&border=none)
 
 <br>
-<br>
-<br>
-<br>
+
+
 ---
   
 <div align="center">
@@ -106,7 +105,10 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <i>Happy Coding!</i> 😊
 
 </div>
-<i>Follow me around the web:</i><br>
+<i>Follow me around the web:</i> <br>
+
+<br>
+
 
 <a href="https://dev.to/swapniltake1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="swapniltake1" height="30" width="40" /></a>
 <a href="https://twitter.com/swapniltake01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapniltake01" height="30" width="40" /></a>
