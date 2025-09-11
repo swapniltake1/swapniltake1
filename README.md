@@ -75,6 +75,13 @@
 
 ---
 
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/swapniltake1/swapniltake1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 <div align="center">
   
 💡 *I’m open to collaborating on Java, Cloud, and AI-driven projects.*  
