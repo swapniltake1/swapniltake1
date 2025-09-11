@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
 
 <div align="center">
 
@@ -46,10 +46,70 @@
 
 ---
 
-## ☕ Sample Java Code
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, I'm Swapnil 👋 - Always Learning, Always Building 🚀");
-    }
-}
+## 📈 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/swapniltake?ext=activity&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swapniltake1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swapniltake1&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/swapniltake1/swapniltake1/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/swapniltake1/swapniltake1/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/swapniltake1/swapniltake1/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
+
+---
+
+## 🏅 Achievements & Highlights
+
+- 🎓 **Azure Certified** – Demonstrated expertise in Microsoft Azure cloud services  
+- 🎓 **Google Certified** – Validated skills in Google Cloud Platform  
+- 🏆 **ACE Award** at Accenture – Recognized for outstanding contributions and performance  
+- 💻 Consistent LeetCode problem-solving streak & active GitHub contributions  
+
+---
+
+<div align="center">  
+💡 *I’m open to collaborating on Java, Cloud, and AI-driven projects.*  
+📫 Reach me at: <a href="mailto:takeswapnil8@gmail.com"><b>Email</b></a> | <a href="https://www.linkedin.com/in/swapniltake1"><b>LinkedIn</b></a>  
+
+<i>Happy Coding! 🚀</i>
+</div>
