@@ -54,20 +54,14 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=tokyonight" alt="GitHub streak" height="150" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swapniltake1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swapniltake1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
