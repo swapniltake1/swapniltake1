@@ -24,28 +24,40 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST%20API-%23007ACC?style=for-the-badge&logo=rest&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![DB2](https://img.shields.io/badge/IBM_DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white) 
-![AS400](https://img.shields.io/badge/IBM_AS400-052FAD?style=for-the-badge&logo=ibm&logoColor=white) 
-![RPG III/IV](https://img.shields.io/badge/RPG%20III%2FIV-006272?style=for-the-badge&logo=ibm&logoColor=white) 
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+<!-- 🔹 Programming & Scripting -->
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<!-- 🔹 Data Engineering & Lakehouse -->
+![Databricks](https://img.shields.io/badge/Databricks-FC4C02.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-0A7AAE.svg?style=for-the-badge&logo=deltalake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-4A90E2.svg?style=for-the-badge&logo=data&logoColor=white)
+
+<!-- 🔹 Cloud Platforms -->
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<!-- 🔹 Databases & Storage -->
+![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![DB2](https://img.shields.io/badge/IBM_DB2-054ADA.svg?style=for-the-badge&logo=ibm&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-569A31.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ADLS](https://img.shields.io/badge/Azure_Data_Lake-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<!-- 🔹 CI/CD & DevOps -->
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<!-- 🔹 AI Assistants -->
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
+
 
 ---
 
