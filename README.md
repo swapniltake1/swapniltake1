@@ -63,6 +63,17 @@
 
 ---
 
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <!-- Followers, public repos, total stars -->
+  <img src="https://img.shields.io/github/followers/swapniltake1?label=Followers&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/repo-size/swapniltake1?label=Repo%20Size&style=for-the-badge" alt="Repo Size" />
+  <img src="https://img.shields.io/github/stars/swapniltake1?label=Stars&style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/swapniltake1/REPO_NAME?label=Last%20Commit&style=for-the-badge" alt="Last Commit" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
