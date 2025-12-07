@@ -63,36 +63,6 @@
 
 ---
 
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <!-- Followers, public repos, total stars -->
-  <img src="https://img.shields.io/github/followers/swapniltake1?label=Followers&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/repo-size/swapniltake1?label=Repo%20Size&style=for-the-badge" alt="Repo Size" />
-  <img src="https://img.shields.io/github/stars/swapniltake1?label=Stars&style=for-the-badge" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/swapniltake1?label=Last%20Commit&style=for-the-badge" alt="Last Commit" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Main stats & top languages (with cache to reduce rate issues) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swapniltake1&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swapniltake1&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
