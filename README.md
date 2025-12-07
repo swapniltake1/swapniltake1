@@ -15,8 +15,9 @@
 </p>
 
 <div align="center">
-  <p>🌱 Passionate Java Developer | Exploring Cloud & AI Integration | Continuous Learner 🚀</p>
+  <p>🌱 Growing as a Data Engineer | Designing Efficient Workflows & Cloud Data Systems | Lifelong Learner 🚀</p>
 </div>
+
 
 ---
 
