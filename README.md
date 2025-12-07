@@ -29,30 +29,23 @@
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<!-- 🔹 Data Engineering & Lakehouse -->
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23007ACC?style=for-the-badge&logo=api&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FC4C02.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-0A7AAE.svg?style=for-the-badge&logo=deltalake&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-4A90E2.svg?style=for-the-badge&logo=data&logoColor=white)
-
-<!-- 🔹 Cloud Platforms -->
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-<!-- 🔹 Databases & Storage -->
 ![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DB2](https://img.shields.io/badge/IBM_DB2-054ADA.svg?style=for-the-badge&logo=ibm&logoColor=white)
 ![S3](https://img.shields.io/badge/AWS_S3-569A31.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![ADLS](https://img.shields.io/badge/Azure_Data_Lake-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-<!-- 🔹 CI/CD & DevOps -->
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-<!-- 🔹 AI Assistants -->
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
 
