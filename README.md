@@ -67,9 +67,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=tokyonight" alt="GitHub streak" height="150" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swapniltake1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swapniltake1&layout=compact&theme=tokyonight&cache_seconds=86400" />
+
 </p>
 ---
 
