@@ -1,9 +1,10 @@
 <h1 align="center">Hello World 👋, I'm Swapnil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+Spring+Boot;Cloud+(AWS+%26+Azure)+Learner;Azure+Data+Engineer;Generative+AI+%26+Copilot+User;Always+Learning+%7C+Always+Building" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=Data+Engineer;PySpark+%7C+Databricks+%7C+Delta+Lake;AWS+%26+Azure+Cloud+Learner;ETL+%7C+Data+Pipelines+%7C+Lakehouse;Always+Learning+%7C+Always+Building" 
        alt="Typing Animation" />
 </p>
+
 
 
 <p align="center">
