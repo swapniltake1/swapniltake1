@@ -91,10 +91,14 @@
 
 ## 🏅 Achievements & Highlights
 
-- 🎓 **Azure Certified**  
-- 🎓 **Google Certified**  
-- 🏆 **ACE Award – Accenture**  
-- 💻 Active GitHub contributor & continuous learner  
+- 🎓 **Google Cloud Certified: Generative AI Leader**  
+- 🎓 **Google Cloud Certified: Cloud Digital Leader**  
+- 🎓 **Microsoft Certified: Fabric Data Engineer Associate**  
+- 🎓 **Microsoft Certified: GitHub Copilot**  
+- 🧠 **HackerRank Certified: SQL (Advanced)** 
+
+- 🏆 **FY25 Q3 Accenture Celebrates Excellence (ACE) Award Winner**  
+  *Issued by Accenture · Aug 2025*
 
 ---
 
