@@ -93,7 +93,8 @@
 
 - 🎓 **Google Cloud Certified: Generative AI Leader**  
 - 🎓 **Google Cloud Certified: Cloud Digital Leader**  
-- 🎓 **Microsoft Certified: Fabric Data Engineer Associate**  
+- 🎓 **Microsoft Certified: Fabric Data Engineer Associate**
+- 🎓 **Microsoft Certified: Fabric Data Engineer Associate**
 - 🎓 **Microsoft Certified: GitHub Copilot**
 - 🎓 **AWS Partner: Generative AI Essentials**  
 - 🧠 **HackerRank Certified: SQL (Advanced)**
