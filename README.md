@@ -5,8 +5,6 @@
        alt="Typing Animation" />
 </p>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swapniltake1" alt="Profile Views" />
   <a href="https://stackoverflow.com/users/16260040/swapnil?tab=profile" target="_blank">
@@ -18,14 +16,12 @@
   <p>🌱 Growing as a Data Engineer | Designing Efficient Workflows & Cloud Data Systems | Lifelong Learner 🚀</p>
 </div>
 
-
 ---
 
 ## 💻 Tech Stack  
 
 <div align="center">
 
-<!-- 🔹 Programming & Scripting -->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
@@ -52,7 +48,6 @@
 
 </div>
 
-
 ---
 
 ## 🏗️ Data Engineering Focus
@@ -65,26 +60,16 @@
 
 ---
 
-
-## 📈 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/swapniltake?ext=activity&theme=dark" alt="LeetCode Stats" />
-</p>
-
----
-
 ## 🚀 What I’m Currently Working On
 
 - 🔭 Developing **end-to-end data pipelines** for analytics use cases  
 - 🌱 Deep-diving into **advanced PySpark & Spark SQL**  
 - ☁️ Exploring **cloud data engineering patterns**  
-- 🧠 Practicing **DSA & SQL** for strong engineering fundamentals  
+- 🧠 Strengthening **SQL & data modeling fundamentals**
 
 ---
 
-
-## ✍️ Random Dev Quote
+## ✍️ Data Engineering Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -106,23 +91,21 @@
 
 ## 🏅 Achievements & Highlights
 
-- 🎓 **Azure Certified** – Demonstrated expertise in Microsoft Azure cloud services  
-- 🎓 **Google Certified** – Validated skills in Google Cloud Platform  
-- 🏆 **ACE Award** at Accenture – Recognized for outstanding contributions and performance  
-- 💻 Consistent LeetCode problem-solving streak & active GitHub contributions  
+- 🎓 **Azure Certified**  
+- 🎓 **Google Certified**  
+- 🏆 **ACE Award – Accenture**  
+- 💻 Active GitHub contributor & continuous learner  
 
 ---
 
-
 <div align="center">  
-💡 *I’m open to collaborating on Java, Cloud, and AI-driven projects.*  
+💡 *I’m open to collaborating on Data Engineering, Cloud, and Platform-focused projects.*  
 📫 Reach me at: <a href="mailto:takeswapnil8@gmail.com"><b>Email</b></a> | <a href="https://www.linkedin.com/in/swapniltake1"><b>LinkedIn</b></a>  
 
 ---
 
 ### ⚡ Fun Fact
-I enjoy turning messy datasets into clean, reliable data pipelines 🚀
-
+I enjoy turning messy datasets into clean, reliable data pipelines 🚀  
 
 <i>Happy Coding! 🚀</i>
 </div>
