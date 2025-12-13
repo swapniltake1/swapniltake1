@@ -55,6 +55,17 @@
 
 ---
 
+## 🏗️ Data Engineering Focus
+
+- 🔹 Building scalable **ETL / ELT pipelines** using PySpark & Databricks  
+- 🔹 Working with **Delta Lake & Lakehouse architectures**  
+- 🔹 Optimizing **Spark jobs** (partitioning, caching, joins)  
+- 🔹 Handling large-scale **structured & semi-structured data**  
+- 🔹 Cloud-native data workflows on **AWS & Azure**
+
+---
+
+
 ## 📈 LeetCode Progress
 
 <p align="center">
@@ -62,6 +73,16 @@
 </p>
 
 ---
+
+## 🚀 What I’m Currently Working On
+
+- 🔭 Developing **end-to-end data pipelines** for analytics use cases  
+- 🌱 Deep-diving into **advanced PySpark & Spark SQL**  
+- ☁️ Exploring **cloud data engineering patterns**  
+- 🧠 Practicing **DSA & SQL** for strong engineering fundamentals  
+
+---
+
 
 ## ✍️ Random Dev Quote
 
@@ -92,9 +113,16 @@
 
 ---
 
+
 <div align="center">  
 💡 *I’m open to collaborating on Java, Cloud, and AI-driven projects.*  
 📫 Reach me at: <a href="mailto:takeswapnil8@gmail.com"><b>Email</b></a> | <a href="https://www.linkedin.com/in/swapniltake1"><b>LinkedIn</b></a>  
+
+---
+
+### ⚡ Fun Fact
+I enjoy turning messy datasets into clean, reliable data pipelines 🚀
+
 
 <i>Happy Coding! 🚀</i>
 </div>
