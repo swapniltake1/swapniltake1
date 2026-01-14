@@ -110,7 +110,6 @@
 📫 Reach me at: <a href="mailto:takeswapnil8@gmail.com"><b>Email</b></a> | <a href="https://www.linkedin.com/in/swapniltake1"><b>LinkedIn</b></a>  
 
 ---
-
 ### ⚡ Fun Fact
 I enjoy turning messy datasets into clean, reliable data pipelines 🚀  
 
