@@ -70,7 +70,7 @@
 ---
 
 ## 🏅 Achievements & Highlights
-
+- 🎓 **Databricks Certified: Data Engineering Associate**  
 - 🎓 **Google Cloud Certified: Generative AI Leader**  
 - 🎓 **Google Cloud Certified: Cloud Digital Leader**  
 - 🎓 **Microsoft Certified: Fabric Data Engineer Associate**
