@@ -175,6 +175,3 @@
   <img alt="Snake animation" src="https://github.com/swapniltake1/swapniltake1/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 </p>
-
----
-
