@@ -1,9 +1,5 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Azure+%7C+PySpark;Building+Scalable+Data+Pipelines+%7C+Delta+Lake+%7C+GenAI" />
-</p>
 
-<h1 align="center">👋 Hi — I'm Swap (Swapnil Take)</h1>
+<h1 align="center">👋 Hi — I'm Swap</h1>
 
 <p align="center">
   Data Engineer (2.6+ years) — building scalable, production-grade data platforms on Azure and Databricks.  
@@ -52,23 +48,6 @@ Apache Kafka • Structured Streaming • Micro-batch processing • Checkpointi
 
 ### ML & GenAI Integration
 Vector DBs • Embeddings • Prompt engineering • RAG pipeline design
-
----
-
-## Selected Projects (high-level)
-
-- Enterprise Data Lake on Azure & Databricks
-  - Designed a Bronze/Silver/Gold Delta Lake layout on ADLS Gen2
-  - Implemented incremental PySpark jobs (CDC style) with schema evolution and automated partition maintenance
-  - Reduced ETL runtime by ~30% through partition pruning and Spark tuning
-
-- Real-time Events Pipeline
-  - Built micro-batch ingestion from Kafka to Delta Lake with Databricks Structured Streaming
-  - Implemented watermarking, idempotency and monitoring for end-to-end SLA compliance
-
-- Analytics & Reporting Enablement
-  - Modeled and delivered clean dimensional datasets for reporting and Power BI consumption
-  - Implemented reconciliation and data quality checks integrated into pipeline CI
 
 ---
 
