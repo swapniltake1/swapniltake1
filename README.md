@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi — I'm Swap (Swapnil Take)</h1>
 
 <p align="center">
-  Senior Data Engineer (2+ years) — building scalable, production-grade data platforms on Azure and Databricks.  
+  Data Engineer (2.6+ years) — building scalable, production-grade data platforms on Azure and Databricks.  
 </p>
 
 <p align="center">
@@ -70,8 +70,6 @@ Vector DBs • Embeddings • Prompt engineering • RAG pipeline design
   - Modeled and delivered clean dimensional datasets for reporting and Power BI consumption
   - Implemented reconciliation and data quality checks integrated into pipeline CI
 
-(If you'd like, I can add short links to code samples or architecture diagrams for any of these.)
-
 ---
 
 ## Core Capabilities
@@ -98,29 +96,11 @@ Vector DBs • Embeddings • Prompt engineering • RAG pipeline design
 
 ---
 
-## GitHub Performance Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapniltake1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapniltake1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swapniltake1&theme=tokyonight" />
 </p>
-
----
-
-## What Makes Me Different
-
-- Production-first mindset: automated testing, monitoring, and repeatable deployments
-- Deep practical experience tuning Spark workloads for cost and performance
-- Strong emphasis on data quality and observability across pipelines
-- Early adopter of GenAI patterns to make data products smarter and more discoverable
 
 ---
 
