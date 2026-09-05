@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi — I'm Swap</h1>
 
 <p align="center">
