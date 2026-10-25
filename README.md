@@ -82,14 +82,6 @@ Vector DBs • Embeddings • Prompt engineering • RAG pipeline design
 
 ---
 
-## Let's Connect
-
-- Email: takeswapnil8@gmail.com
-- LinkedIn: https://linkedin.com/in/swapniltake1/
-- Open to Data Engineering roles and consulting
-
----
-
 <p align="center">
   ⭐ If you find my work interesting, consider starring my repositories! Thank you for visiting :)
 </p>
