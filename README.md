@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi — I'm Swap</h1>
 
 <p align="center">
-  Data Engineer (2.6+ years) — building scalable, production-grade data platforms on Azure and Databricks.  
+  Data Engineer (2.7+ years) — building scalable, production-grade data platforms on Azure and Databricks.  
 </p>
 
 <p align="center">
